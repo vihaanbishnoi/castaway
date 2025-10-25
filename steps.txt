@@ -1,0 +1,9 @@
+npm init -y
+npm install express pg dotenv
+npm install nodemon --save-dev
+
+For the next step I stated to Claude that I have pgadmin 
+since bash couldn't find the command. (env)
+
+created database castaway_db in pgadmin
+
